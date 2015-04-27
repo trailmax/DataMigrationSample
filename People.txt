@@ -1,0 +1,9 @@
+First Name	Surname	Sex	DOB	DateOfJoin	JobTitle	HolidayEntitlement (Days)	CompanyAbbreviation
+Joe	Biden	Male	15/06/1960	01/05/2009	Secretary	23	BG
+Orrin	Hatch	Male	03/07/1958	01/03/2015	Admin Assistant	15	BT
+Eoin	Mark	Male	03/07/1999	27/04/2015	Junior Developer	15	SNDR
+ 	Ronan	Female	14/03/1995	01/04/2015	Developer	15	TSC
+Niall	Scott	Female	10/04/1990	0/04/2015	Team Manager	18	BG
+Aaron	Dylan	Male		12/11/2010	Junior Tester	20	BT
+Patrick	Sean	Male	10/12/1984	25/01/2012	Project Manager	l8	BG
+Gareth	Ethan	Male	20/11/1986	01/01/2014	Senior Developer	15	TR
